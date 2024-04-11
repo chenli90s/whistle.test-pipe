@@ -1,2 +1,2 @@
-127.0.0.1:25001 pipe://test-pipe
-127.0.0.1:25002 pipe://test-pipe
+127.0.0.1 pipe://test-pipe
+127.0.0.1 pipe://test-pipe
